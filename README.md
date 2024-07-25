@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wageesha Widuranga</h1>
 <h3 align="center">I am a recent graduate of the University of Colombo with multidisciplinary knowledge and experience. I am a self-driven individual who wants to pursue a career in STEM and also a result- oriented individual who is looking forward to being a part of innovative projects</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wageeshawlw&label=Profile%20views&color=0e75b6&style=flat" alt="wageeshawlw" /> </p>
+<img align="right" alt="Coding" width="400" src="1*wJt3v7Gs46uticTUj4y9zg.gif”>
 
 - 📫 How to reach me **wageesha.wlw@gmail.com**
 
@@ -18,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wageeshawlw&show_icons=true&locale=en&layout=compact" alt="wageeshawlw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wageeshawlw&show_icons=true&locale=en" alt="wageeshawlw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wageeshawlw&" alt="wageeshawlw" /></p>
