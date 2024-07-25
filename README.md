@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Wageesha Widuranga</h1>
 <h3 align="center">I am a recent graduate of the University of Colombo with multidisciplinary knowledge and experience. I am a self-driven individual who wants to pursue a career in STEM and also a result- oriented individual who is looking forward to being a part of innovative projects</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*wJt3v7Gs46uticTUj4y9zg.gif>
